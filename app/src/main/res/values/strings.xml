@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CallNotifier</string>
+    <string name="label">IP Address of Server</string>
+</resources>
